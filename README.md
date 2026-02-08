@@ -1,9 +1,11 @@
 # Java++
 Python Syntax, compiles to branchless, highly optimized Java
+Usage: python main.py file.jpp
 
+---
 Java++ Language Syntax Specification
-Version: 4.x
-Scope: Surface syntax only (no backend semantics)
+- Version: 4.x
+- Scope: Surface syntax only (no backend semantics)
 
 ------------------------------------------------------------
 1. BASIC STRUCTURE
